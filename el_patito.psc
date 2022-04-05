@@ -1,4 +1,4 @@
-//Calcula el promedio de una lista de N datos
+//Calcula el promedio de una lista de N dato
 
 Algoritmo Promedio
 
@@ -9,8 +9,8 @@ Algoritmo Promedio
 		
 		Leer n
 		Si n<=0 Entonces
-			Escribir "El número debe ser positivo y distinto de cero."
-			Escribir "Introduzca un número válido."
+			Escribir "El nÃºmero debe ser positivo y distinto de cero."
+			Escribir "Introduzca un nÃºmero vÃ¡lido."
 		Fin Si
 		
 	Hasta Que n>0
